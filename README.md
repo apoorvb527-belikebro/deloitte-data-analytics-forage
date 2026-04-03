@@ -26,6 +26,8 @@ real-world business cases across operations and people analytics.
 - Built a risk classification model in Excel
 - Categorized salary records into Fair / Unfair / Highly Discriminative
 - Identified systemic inequalities concentrated in upper management roles
+- ## Dashboard Preview
+![Equity table Analysis](equity-table.jpeg)
 
 **Business Impact:** Provided HR with a clear roadmap to address pay gaps
 
