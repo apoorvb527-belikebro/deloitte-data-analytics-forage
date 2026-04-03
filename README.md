@@ -17,6 +17,8 @@ business conclusions in a consulting context.
 - Built a Tableau dashboard to visualize key findings
 - Used Excel to classify data and draw actionable conclusions
 - Presented insights in a structured business format
+- ## Dashboard Preview
+![Tableau Dashboard](daikikoo.jpeg)
 
 ## Key Skills Demonstrated
 - Data visualization and storytelling
