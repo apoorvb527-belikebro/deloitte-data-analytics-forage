@@ -13,7 +13,7 @@ real-world business cases across operations and people analytics.
 - Built an interactive Tableau dashboard from machine sensor data
 - Identified operational bottlenecks across global facilities
 - Pinpointed LaserCutter and Welder failures in Berlin and Osaka plants
-## Dashboard Preview
+## Daikibo Global Operations: Downtime Analysis
 ![Tableau Dashboard](daikikoo.jpeg)
 **Business Impact:** Enabled targeted maintenance decisions to reduce downtime
 
@@ -26,7 +26,7 @@ real-world business cases across operations and people analytics.
 - Built a risk classification model in Excel
 - Categorized salary records into Fair / Unfair / Highly Discriminative
 - Identified systemic inequalities concentrated in upper management roles
-- ## Dashboard Preview
+  ## Equity Table Analysis
 ![Equity table Analysis](equity-table.jpeg)
 
 **Business Impact:** Provided HR with a clear roadmap to address pay gaps
